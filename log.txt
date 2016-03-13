@@ -1,0 +1,4 @@
+echoserver listening to 8000 
+proxyserver listening to 9000
+proxyserver 
+{"user-agent":"curl/7.33.0","host":"127.0.0.1:9000","accept":"*/*","'foo":"bar'"}
