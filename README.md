@@ -6,8 +6,8 @@ Echo Server and proxyserver using node.js
 - [X] Required: Requests/reponses are proxied to/from the destination server
 - [X] Required: The destination server is configurable via the --host, --port or --url arguments
 - [X] Required: The destination server is configurable via the x-destination-url header
-- [] Required: Client requests and respones are printed to stdout
-- [X]Request and responses are printed to a log file
+- [ ] Required: Client requests and respones are printed to stdout
+- [X] Request and responses are printed to a log file
 - 
 Time spent: Installation, Javascript, learnyounode,proxyserver everything took around 4 hours
 
